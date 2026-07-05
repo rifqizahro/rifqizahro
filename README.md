@@ -6,5 +6,5 @@ Fresh Graduate in Physics Education with interests in **Translation**, **Voice O
 - 🌱 Currently improving my English communication and exploring translation tools.
 - 👯 Open to translation, voice-over, administrative, and educational projects.
 - 💬 Ask me about academic writing, educational content, Microsoft Excel, or SPSS.
-- 📫 Reach me at: your.email@gmail.com
+- 📫 Reach me at: rifqizahroo@gmail.com
 - ⚡ I enjoy working with languages, organizing information, and creating content that is clear and easy to understand.crosoft Word
