@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Hi, I'm Rifqi Fatimatu
 
-<!--
-**rifqizahro/rifqizahro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fresh Graduate in Physics Education with interests in **Translation**, **Voice Over**, **Data Entry**, **Academic Writing**, and **Educational Content Development**.
 
-Here are some ideas to get you started:
+### 🌍 Languages
+- 🇮🇩 Indonesian (Native)
+- 🇬🇧 English (Intermediate)
+- 🇯🇵 Javanese (Native)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Areas of Interest
+- Translation (Indonesian ⇄ English ⇄ Javanese)
+- Voice Over & Narration
+- Data Entry & Documentation
+- Academic & Technical Writing
+- Educational Content Development
+
+### 🛠 Tools
+- Microsoft Excel
+- Microsoft Word
+- SPSS
+- Google Workspace
+- Canva
+
+### 📂 Featured Projects
+- 📄 Undergraduate Research
+- 📑 Scientific Article
+- 📚 Teaching Module
+- 🎙 Voice Over Demo
+- 🌐 Translation Portfolio
+
+### 📫 Connect with Me
+- LinkedIn: ...
+- Email: ...
